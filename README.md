@@ -10,7 +10,7 @@
 
 **About me:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/khadijaamjad/.github/main/.resources/git-header.svg" />
+<img width="55%" align="right" alt="header" src="header.svg" />
 <!-- Image by <a href="https://www.freepik.com/free-vector/new-app-development-desktop_10276612.htm#query=software&position=4&from_view=search&track=sph&uuid=1a2a6608-9c0c-48f1-a5c7-9b454963622c">Freepik</a> -->
 
 - 👨🏽‍💻 I’m currently working on [IngeniSync](https://github.com/khadijaamjad/ingenisync)
