@@ -1,5 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+<img width="35%" height="35%" align="right" alt="header" src="header.svg" />
+
 ***I'm Khadija, a Software Engineer 🚀 from Pakistan***
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/khadijaamjad)
@@ -8,18 +10,14 @@
 <img src="https://badges.pufler.dev/visits/khadijaamjad/khadijaamjad?color=black&logo=github" />
 &nbsp;
 
-**About me:**
-
-<img width="55%" align="right" alt="header" src="header.svg" />
-<!-- Image by <a href="https://www.freepik.com/free-vector/new-app-development-desktop_10276612.htm#query=software&position=4&from_view=search&track=sph&uuid=1a2a6608-9c0c-48f1-a5c7-9b454963622c">Freepik</a> -->
-
+**About me**
 - 👨🏽‍💻 I’m currently working on [IngeniSync](https://github.com/khadijaamjad/ingenisync)
 - 🌱 I’m currently learning Python and polishing up my skills in MEAN stack
 - ⚡️ I have an interest in Artificial Intelligence and Machine Learning
 
 **Expand to view**
 <details>
-  <summary><b>:computer: &nbsp;Languages and Tools</b></summary>
+  <summary><b>:computer: &nbsp;What I have worked on</b></summary>
   <br/>
   
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -55,7 +53,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Want to learn</b></summary>
+  <summary><b>:brain: &nbsp;What I want to learn</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -73,13 +71,11 @@
 </details>
 
 <details>
-  <summary><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px><b> GitHub Profile Stats</b></summary>
+  <summary><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 18px> &nbsp;<b> GitHub Profile Stats</b></summary>
    <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijaamjad&theme=nightowl" alt="Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khadijaamjad&show_icons=true&theme=nightowl" />
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijaamjad&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Languages"/>
-    </p>
-</div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijaamjad&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Languages" width="30%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijaamjad&theme=nightowl" alt="Stats" width="49%"/>&nbsp;
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khadijaamjad&show_icons=true&theme=nightowl" width="49%"/>&nbsp;
+  </div>
 </details>
 
