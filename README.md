@@ -11,8 +11,8 @@
 &nbsp;
 
 **About me**
-- 👨🏽‍💻 I’m currently working on [IngeniSync](https://github.com/khadijaamjad/ingenisync)
-- 🌱 I’m currently learning Python and polishing up my skills in MEAN stack
+- 👨🏽‍💻 I’m currently working on [TypeSprint](https://github.com/khadijaamjad/typeSprint)
+- 🌱 I’m currently improving my skills in MEAN/MERN/.NET stacks
 - ⚡️ I have an interest in Artificial Intelligence and Machine Learning
 
 **Expand to view**
@@ -48,7 +48,6 @@
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC.svg?&style=flat&logo=visual-studio)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-F05033.svg?&style=flat&logo=postman&logoColor=white)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 
 </details>
 
@@ -60,9 +59,11 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
